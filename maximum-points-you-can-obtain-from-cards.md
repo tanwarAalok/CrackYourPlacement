@@ -5,6 +5,7 @@ Input: cardPoints = [2,2,2], k = 2
 Output: 4
 Explanation: Regardless of which two cards you take, your score will always be 4.
 ```
+![figure](https://assets.leetcode.com/users/images/a539e5d3-3faa-43d3-bfcd-8a6549e4589b_1656213784.1710274.png)
 
 ```
 class Solution {
